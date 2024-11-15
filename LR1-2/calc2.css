@@ -13,7 +13,7 @@ body {
 .light-background {
     background-color: #f0f0f0;
     color: #000; /* Цвет текста для светлой темы */
-    background-image: url('https://imgur.la/images/2024/10/28/ddf054e3d32be9b6bc34681b34100af8.jpg'); /* путь к изображению для светлой темы */
+    background-image: url('https://github.com/nastya1pakh/Web-promming/blob/main/LR1-2/lighttheme.jpg'); /* путь к изображению для светлой темы */
 }
 
 .dark-background {
